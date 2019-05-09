@@ -16,4 +16,4 @@ This site is for demo purposes only but if you want to tinker with it you will n
 
 7) You will need to create advanced custom fields, fields using the Advanced Custom Fields Plugin. Watch a short youtube video on how to use the plugin so you understand how it works. I have only added a few fields already, because this is just a demo theme, in the Home-page.php and About-Template.php but it is very easy to add more for yourself if you want to completely edit the contents of the theme.
 
-8) Raise an issue here if you have any problems or can't get it working and I will reply within 24 to 48 hours.
+Raise an issue here if you have any problems or can't get it working and I will reply within 24 to 48 hours.
